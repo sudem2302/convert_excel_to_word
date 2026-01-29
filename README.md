@@ -15,13 +15,13 @@ It is useful for project, report, or jury evaluation forms.
 
 - Run the Python script
 - Select the Excel file from the window
-- ![Main Window](1.png)
+![Main Window](1.png)
 - Make sure sablon.docx is in the same folder
 - The program:
   - Reads data from Excel
   - Fills the Word template
   - Creates one .docx file per student
-  - ![Main Window](2.png)
+  ![Main Window](2.png)
 
 ## Excel File Format
 ![Main Window](e.png)
