@@ -4,7 +4,7 @@ This project reads student data from an Excel file and automatically fills a Wor
 A separate Word file is created for each student.
 It is useful for project, report, or jury evaluation forms.
 
-# Technologies
+## Technologies
 
 - Python 3
 - pandas
@@ -13,16 +13,16 @@ It is useful for project, report, or jury evaluation forms.
 
 ## How It Works
 
-1- Run the Python script
-2- Select the Excel file from the window
-3- Make sure sablon.docx is in the same folder
-4- The program:
+- Run the Python script
+- Select the Excel file from the window
+- Make sure sablon.docx is in the same folder
+- The program:
   -Reads data from Excel
   -Fills the Word template
   -Creates one .docx file per student
 
-# Excel File Format
+## Excel File Format
 ![Main Window](e.png)
 
-# Word File Format
+## Word File Format
 ![Main Window](w.png)
