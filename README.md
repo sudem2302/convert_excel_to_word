@@ -1,4 +1,4 @@
-# convert_excel_to_word
+# CONVERT_EXCEL_TO_WORD
 
 This project reads student data from an Excel file and automatically fills a Word template (sablon.docx).
 A separate Word file is created for each student.
