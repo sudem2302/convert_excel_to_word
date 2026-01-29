@@ -11,7 +11,7 @@ It is useful for project, report, or jury evaluation forms.
 - python-docx
 - tkinter (for file selection)
 
-# How It Works
+## How It Works
 
 1- Run the Python script
 2- Select the Excel file from the window
