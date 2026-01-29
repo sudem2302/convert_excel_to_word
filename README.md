@@ -28,3 +28,11 @@ It is useful for project, report, or jury evaluation forms.
 
 ## Word File Format
 ![Main Window](w.png)
+
+## Notes
+- Maximum 100 students are processed
+- If Student Number is "end", the program stops
+- If a file already exists, _1, _2, etc. are added automatically
+
+![Main Window](3.png)
+
